@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:\\05_Bitbucket\\sa_twitter\\ide_visualstudio\\ide_visualstudio\\runs\\1522480840\\checkpoints\\model-600"
+all_model_checkpoint_paths: "D:\\05_Bitbucket\\sa_twitter\\ide_visualstudio\\ide_visualstudio\\runs\\1522480840\\checkpoints\\model-200"
+all_model_checkpoint_paths: "D:\\05_Bitbucket\\sa_twitter\\ide_visualstudio\\ide_visualstudio\\runs\\1522480840\\checkpoints\\model-300"
+all_model_checkpoint_paths: "D:\\05_Bitbucket\\sa_twitter\\ide_visualstudio\\ide_visualstudio\\runs\\1522480840\\checkpoints\\model-400"
+all_model_checkpoint_paths: "D:\\05_Bitbucket\\sa_twitter\\ide_visualstudio\\ide_visualstudio\\runs\\1522480840\\checkpoints\\model-500"
+all_model_checkpoint_paths: "D:\\05_Bitbucket\\sa_twitter\\ide_visualstudio\\ide_visualstudio\\runs\\1522480840\\checkpoints\\model-600"

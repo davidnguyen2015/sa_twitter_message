@@ -1,0 +1,73 @@
+----------------------------
+Checkpoint save folder: D:\05_Bitbucket\sa_twitter\ide_visualstudio\ide_visualstudio\runs\1522476608
+Optimize with argument:  Merge_NN_Seq
+Total time train finish (minutes, seconds): (0, 44)
+
+----------------------------
+Checkpoint save folder: D:\05_Bitbucket\sa_twitter\ide_visualstudio\ide_visualstudio\runs\1522476744
+Optimize with argument:  Merge_NN_Seq
+Total time train finish (minutes, seconds): (0, 46)
+
+----------------------------
+Test model with data:  ./data/data_test/test
+Total time test finish (minutes, seconds): (0, 1)
+Total number of test examples: 60
+Accuracy: 0.4166666666666667
+
+----------------------------
+Test model with data:  ./data/data_test/train
+Total time test finish (minutes, seconds): (0, 1)
+Total number of test examples: 150
+Accuracy: 0.94
+
+----------------------------
+Checkpoint save folder: D:\05_Bitbucket\sa_twitter\ide_visualstudio\ide_visualstudio\runs\1522477672
+Optimize with argument:  Merge_NN_Seq
+Total time train finish (minutes, seconds): (0, 40)
+
+----------------------------
+Test model with data:  ./data/data_test/test
+Total time test finish (minutes, seconds): (0, 0)
+Total number of test examples: 60
+Accuracy: 0.38333333333333336
+
+----------------------------
+Test model with data:  ./data/data_test/train
+Total time test finish (minutes, seconds): (0, 1)
+Total number of test examples: 150
+Accuracy: 0.9466666666666667
+
+----------------------------
+Checkpoint save folder: D:\05_Bitbucket\sa_twitter\ide_visualstudio\ide_visualstudio\runs\1522480840
+Optimize with argument:  Merge_NN_Seq
+Total time train finish (minutes, seconds): (0, 40)
+
+----------------------------
+Test model with data:  ./data/data_test/test
+Total time test finish (minutes, seconds): (0, 1)
+Total number of test examples: 60
+Accuracy: 0.3333333333333333
+
+----------------------------
+Test model with data:  ./data/data_test/train
+Total time test finish (minutes, seconds): (0, 1)
+Total number of test examples: 150
+Accuracy: 0.9466666666666667
+
+----------------------------
+Checkpoint save folder: D:\05_Bitbucket\sa_twitter\ide_visualstudio\ide_visualstudio\runs\1522481590
+Optimize with argument:  Merge_NN_Seq
+Total time train finish (minutes, seconds): (0, 44)
+
+----------------------------
+Test model with data:  ./data/data_test/test
+Total time test finish (minutes, seconds): (0, 1)
+Total number of test examples: 60
+Accuracy: 0.2833333333333333
+
+----------------------------
+Test model with data:  ./data/data_test/train
+Total time test finish (minutes, seconds): (0, 1)
+Total number of test examples: 150
+Accuracy: 0.94
+
